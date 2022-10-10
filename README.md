@@ -20,7 +20,9 @@ Copy the executable relevant to the platform to a directory that is included in 
 Syntax:
 
 psrm percentage file
+
 psrm percentage file1 file2
+
 psrm percentage *
 
 Arguments:
