@@ -15,7 +15,7 @@ Released under the GPL 3 licence.
 
 Installation:
 
-Copy the executable relevant to the platform to a directory that is included in the path search for the command line.
+Extract the executable relevant to the platform from the binaries.zip file to a directory that is included in the path search for the command line.
 
 Syntax:
 
