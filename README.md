@@ -28,12 +28,15 @@ psrm percentage *
 Arguments:
 
 percentage - percentage of file to overwrite
+
 file - file to overwrite - single file name, multiple files, or wildcard
 	
 Examples:
 
 psrm 10 MyFile - overwrite 10 percent of MyFile, then delete it
+
 psrm 30 MyFile1 MyFile2 - overwrite 30 percent of MyFile1 and MyFile2, then delete the files
+
 psrm 60 * - overwrite 60 percent of all files in current directory
 
 Error codes returned to shell:
