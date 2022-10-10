@@ -42,4 +42,5 @@ psrm 60 * - overwrite 60 percent of all files in current directory
 Error codes returned to shell:
 
 0  = success
+
 -1 = failed
